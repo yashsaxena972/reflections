@@ -1,0 +1,2 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+ --> A new hidden file called .git is created and our directory becomes a git repository
