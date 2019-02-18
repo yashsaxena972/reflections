@@ -6,3 +6,15 @@
 
 3. How can you use the staging area to make sure you have one commit per logical change?
  --> By adding only 1 file to the staging area before committing it
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+ --> When testing out an experimental feature, correcting a bug  
+
+5. How do the diagrams help you visualize the branch structure?
+ --> By giving us a visual representation of the actual branches and the commit history of each branch including the parent of each commit
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+ --> 
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+ -->  
